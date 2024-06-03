@@ -32,5 +32,5 @@ Este Projeto está sob a licença MIT.
 
 ## Acesso ao Projeto:
 
-Você pode acessar este Projeto 👉 [aqui](https://projeto-bookshelf.vercel.app/)
+Você pode acessar este Projeto 👉 [aqui](https://projeto-seal-world.vercel.app/)
 
